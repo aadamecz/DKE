@@ -1,6 +1,8 @@
 # DKE
 Replication package for `Revisiting the Dunning-Kruger effect: composite measures and heterogeneity by gender`
 
+Published paper: Anna Adamecz, Radina Ilieva and Nikki Shure: Revisiting the Dunning-Kruger Effect: Composite Measures and Heterogeneity by Gender. Journal of Behavioral and Experimental Economics 2025. doi: 10.1016/j.socec.2025.102362 https://www-sciencedirect-com.libproxy.ucl.ac.uk/science/article/pii/S2214804325000291?via%3Dihub 
+
 This package replicates the results of `Revisiting the Dunning-Kruger effect: composite measures and heterogeneity by gender` by Anna Adamecz, Radina Ilieva, and Nikki Shure in Stata.
 After downloading the package, see 1_DK_how_to_run.do for more details. All data are available from the UK Data Service after registration, creating and account, and asking for permission 
 at wwww.ukdataservice.ac.uk. If you have any questions, contact me on a.adamecz-volgyi `at` ucl.ac.uk.
